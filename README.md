@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/ejbyne/javabuzz/badges/gpa.svg)](https://codeclimate.com/github/ejbyne/javabuzz)
+
 # Javabuzz
 
 ## Summary
